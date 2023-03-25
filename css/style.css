@@ -1,6 +1,6 @@
 html, body, .page-container {
     height: 100%;
-    background-color: #FFEDC6;
+    background-color: #fbf4e3;
 }
 
 body {
@@ -31,7 +31,19 @@ p {
 h2 {
     font-size: 1.8rem;
 }
-
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .container-fluid
+.container-xl {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 .highlight {
     color: #000000;
 }
