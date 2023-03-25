@@ -76,6 +76,16 @@ h2 {
     background-color: rgb(214, 31, 31);
 }*/
 
+
+.logo{
+
+
+
+    flex: 1 1 auto;
+    align-items: center;
+    
+    }
+
 #tm-nav {
     z-index: 1000;
 }
